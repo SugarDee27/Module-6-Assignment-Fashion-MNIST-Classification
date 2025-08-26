@@ -5,7 +5,6 @@ This package includes **Python (Keras/TensorFlow)** and **R (keras)** implementa
 
 ## Files
 - `fashion_cnn.py` — Python script to train and predict
-- `Fashion_MNIST_CNN.ipynb` — Python notebook (run cell-by-cell)
 - `fashion_cnn.R` — R keras script
 - `outputs/` — models and images saved here at runtime
 - `requirements.txt` — Python deps
